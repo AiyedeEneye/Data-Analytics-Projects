@@ -5,6 +5,6 @@ Welcome to my data analytics portfolio! This repository showcases my journey int
 ## About Me
 I'm Eneye, a data analyst with a background in finance. My experience working with financial statements, budgets, aand reports gave me a strong foundation in numbers. Now, my toolkit include data analytics, so I can dig deeper, find patterns, and tell better stories with data. I'm passionate about using data to drive smarter financial decisions.
 ## Tools and Skills
-#Microsoft Excel - Data cleaning, pivot tables, charts, and power queries.
-#SQL - Querying databases, data extraction, aggregation, and filtering.
-#Power BI - Building interactive dashboards, visualizations, and reports.
+##Microsoft Excel - Data cleaning, pivot tables, charts, and power queries.
+##SQL - Querying databases, data extraction, aggregation, and filtering.
+##Power BI - Building interactive dashboards, visualizations, and reports.
