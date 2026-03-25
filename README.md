@@ -8,3 +8,6 @@ I'm Eneye, a data analyst with a background in finance. My experience working wi
 * Microsoft Excel - Data cleaning, pivot tables, charts, and power queries.
 * SQL - Querying databases, data extraction, aggregation, and filtering.
 * Power BI - Building interactive dashboards, visualizations, and reports.
+## Goals
+* Build a strong data analytics portfolio
+* Land my first Data Analyst role
